@@ -17,6 +17,8 @@
 
     <modules>
         <module>StudySpringSecurity</module>
+        <module>StudySpringRedis</module>
+        <module>StudySpringRabbitMQ</module>
     </modules>
 
     <properties>
