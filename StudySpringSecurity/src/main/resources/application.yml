@@ -1,0 +1,7 @@
+server:
+  port: 8321
+#spring:
+#  security:
+#    user:
+#      name: aaa
+#      password: aaa
