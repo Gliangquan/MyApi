@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7b943f27-d059-4b34-a619-265fad66df5b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domo-dubbo/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/domo-dubbo/service-consumer/service-consumer-core/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/domo-dubbo/service-consumer/service-consumer-core/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/domo-dubbo/service-provider/service-provider-core/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/domo-dubbo/service-provider/service-provider-core/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,7 +191,7 @@
       <workItem from="1730342075162" duration="22000" />
       <workItem from="1730342142061" duration="1698000" />
       <workItem from="1730345378508" duration="3556000" />
-      <workItem from="1730948106027" duration="4854000" />
+      <workItem from="1730948106027" duration="5177000" />
     </task>
     <servers />
   </component>
