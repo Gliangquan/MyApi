@@ -1,0 +1,10 @@
+server:
+  port: 8321
+spring:
+  application:
+    name: studySpringSecurity
+  datasource:  # DataSource Config
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/x-studyspringboot
+    username: root
+    password: "030201"

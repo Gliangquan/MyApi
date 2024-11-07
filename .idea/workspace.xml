@@ -5,17 +5,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7b943f27-d059-4b34-a619-265fad66df5b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/StudySpringRocketMQ/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudySpringRocketMQ/src/main/java/con/liang/rocketmq/Consumer/PushConsumerExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudySpringRocketMQ/src/main/java/con/liang/rocketmq/Producer/ProducerExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudySpringRocketMQ/src/main/java/con/liang/rocketmq/RocketMQApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudySpringRocketMQ/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domo-dubbo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domo-dubbo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domo-dubbo/service-consumer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domo-dubbo/service-consumer/service-consumer-api/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domo-dubbo/service-consumer/service-consumer-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domo-dubbo/service-consumer/service-consumer-core/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domo-dubbo/service-consumer/service-consumer-core/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domo-dubbo/service-consumer/service-consumer-core/src/main/java/com/liangquan/ConsumerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domo-dubbo/service-consumer/service-consumer-core/src/main/java/com/liangquan/controller/TestDubboController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domo-dubbo/service-consumer/service-consumer-core/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domo-dubbo/service-consumer/service-consumer-entity/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domo-dubbo/service-consumer/service-consumer-entity/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domo-dubbo/service-provider/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domo-dubbo/service-provider/service-provider-api/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domo-dubbo/service-provider/service-provider-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domo-dubbo/service-provider/service-provider-api/src/main/java/com/liangquan/dubbo/service/TestDubboService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domo-dubbo/service-provider/service-provider-core/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domo-dubbo/service-provider/service-provider-core/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domo-dubbo/service-provider/service-provider-core/src/main/java/com/liangquan/ProviderApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domo-dubbo/service-provider/service-provider-core/src/main/java/com/liangquan/service/dubbo/TestDubboServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domo-dubbo/service-provider/service-provider-core/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domo-dubbo/service-provider/service-provider-entity/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domo-dubbo/service-provider/service-provider-entity/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domo-dubbo/service-provider/service-provider-entity/src/main/java/com/liangquan/entity/Users.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudySpring/src/main/java/com/liangquan/studyspring/StudySpringApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudySpring/src/main/java/com/liangquan/studyspring/StudySpringApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudySpringRabbitMQ/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/StudySpringRocketMQ/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudySpringSecurity/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/StudySpringSecurity/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudySpringSecurity/src/main/java/com/quan/studyspringsecurity/StudySpringBootApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudySpringSecurity/src/main/resources/StudySpringBootApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudySpringRocketMQ/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/StudySpringRocketMQ/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/test/java/AppTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +55,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -59,15 +86,22 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.ProducerExample.executor": "Run",
     "Application.PushConsumerExample.executor": "Run",
+    "Maven.domo-dubbo [clean].executor": "Run",
+    "Maven.service-provider-core [clean].executor": "Run",
+    "Maven.service-provider-entity [clean].executor": "Run",
     "RequestMappingsPanelOrder0": "0",
     "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "15",
-    "RequestMappingsPanelWidth1": "15",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.ConsumerApplication.executor": "Debug",
+    "Spring Boot.ProviderApplication.executor": "Debug",
     "Spring Boot.StudySpringApplication.executor": "Run",
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "Tencen-kona-1.8",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/liangquan/Library/Mobile Documents/com~apple~CloudDocs/code/StudySpringBoot/domo-dubbo/service-consumer/service-consumer-core/src/main/java/com/liangquan",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -76,11 +110,41 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
+    "run.configurations.included.in.services": "true",
     "settings.editor.selected.configurable": "MavenSettings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PushConsumerExample">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/domo-dubbo/service-consumer/service-consumer-core/src/main/java/com/liangquan" />
+      <recent name="$PROJECT_DIR$/domo-dubbo/service-consumer/service-consumer-core/src/main" />
+      <recent name="$PROJECT_DIR$/domo-dubbo/service-provider/service-provider-core/src/main/java" />
+      <recent name="$PROJECT_DIR$/domo-dubbo/service-provider" />
+      <recent name="$PROJECT_DIR$/domo-dubbo/service-provider/service-provider-core/src/main/java/com/liangquan/serviceprovidercore" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/domo-dubbo/service-provider" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.liangquan" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.liangquan.service.dubbo" />
+      <recent name="com.liangquan.entity" />
+      <recent name="com.liangquan.dubbo.service" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ConsumerApplication">
     <configuration name="ProducerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="con.liang.rocketmq.Producer.ProducerExample" />
       <module name="StudySpringRocketMQ" />
@@ -107,12 +171,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudySpringApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="StudySpring" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liangquan.studyspring.StudySpringApplication" />
+    <configuration name="ConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service-consumer-core" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liangquan.ConsumerApplication" />
+      <option name="VM_PARAMETERS" value="--add-opens java.base/java.lang.invoke=ALL-UNNAMED" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.liangquan.studyspring.*" />
+          <option name="PATTERN" value="com.liangquan.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +185,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="service-provider-core" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liangquan.ProviderApplication" />
+      <option name="VM_PARAMETERS" value="--add-opens java.base/java.lang.invoke=ALL-UNNAMED" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.ConsumerApplication" />
         <item itemvalue="Application.ProducerExample" />
         <item itemvalue="Application.PushConsumerExample" />
-        <item itemvalue="Spring Boot.StudySpringApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +220,8 @@
       <workItem from="1730201634543" duration="2483000" />
       <workItem from="1730342075162" duration="22000" />
       <workItem from="1730342142061" duration="1698000" />
-      <workItem from="1730345378508" duration="1658000" />
+      <workItem from="1730345378508" duration="3556000" />
+      <workItem from="1730948106027" duration="4700000" />
     </task>
     <servers />
   </component>
@@ -156,5 +230,21 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/domo-dubbo/service-consumer/service-consumer-core/src/main/java/com/liangquan/controller/TestDubboController.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/domo-dubbo/service-consumer/service-consumer-core/src/main/java/com/liangquan/controller/TestDubboController.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -11,10 +11,18 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="StudySpring" />
         <module name="StudySpringRocketMQ" />
         <module name="StudySpringSecurity" />
+        <module name="service-provider-entity" />
+        <module name="service-consumer" />
+        <module name="service-consumer-entity" />
+        <module name="service-provider" />
+        <module name="StudySpring" />
         <module name="StudySpringRedis" />
+        <module name="service-provider-core" />
+        <module name="service-consumer-core" />
+        <module name="service-consumer-api" />
+        <module name="service-provider-api" />
       </profile>
     </annotationProcessing>
   </component>
@@ -23,6 +31,13 @@
       <module name="StudySpringRedis" options="-parameters" />
       <module name="StudySpringRocketMQ" options="-parameters" />
       <module name="StudySpringSecurity" options="-parameters" />
+      <module name="service-consumer" options="-parameters" />
+      <module name="service-consumer-api" options="-parameters" />
+      <module name="service-consumer-core" options="-parameters" />
+      <module name="service-consumer-entity" options="-parameters" />
+      <module name="service-provider-api" options="-parameters" />
+      <module name="service-provider-core" options="-parameters" />
+      <module name="service-provider-entity" options="-parameters" />
     </option>
   </component>
 </project>

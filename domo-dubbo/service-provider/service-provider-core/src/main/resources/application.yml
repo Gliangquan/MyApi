@@ -1,0 +1,14 @@
+server:
+  port: 8180
+  servlet:
+    context-path: /
+
+dubbo:
+  application:
+    name: dubbo-springboot-demo-provider
+  protocol:
+    name: dubbo
+    port: -1
+  registry:
+    address: zookeeper://localhost:2181
+    timeout: 600000

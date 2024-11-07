@@ -6,8 +6,17 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/StudySpring/pom.xml" />
+        <option value="$PROJECT_DIR$/domo-dubbo/pom.xml" />
+        <option value="$PROJECT_DIR$/domo-dubbo/service-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/domo-dubbo/service-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/domo-dubbo/service-consumer/service-provider-api/pom.xml" />
+        <option value="$PROJECT_DIR$/domo-dubbo/service-consumer/service-provider-entity/pom.xml" />
+        <option value="$PROJECT_DIR$/domo-dubbo/service-provider/service-provider-core/pom.xml" />
+        <option value="$PROJECT_DIR$/domo-dubbo/service-consumer/service-consumer-api/pom.xml" />
+        <option value="$PROJECT_DIR$/domo-dubbo/service-consumer/service-consumer-core/pom.xml" />
+        <option value="$PROJECT_DIR$/domo-dubbo/service-consumer/service-consumer-entity/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="Tencen-kona-1.8" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="Tencen-kona-17" project-jdk-type="JavaSDK" />
 </project>
