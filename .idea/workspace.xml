@@ -5,40 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7b943f27-d059-4b34-a619-265fad66df5b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domo-dubbo/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domo-dubbo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domo-dubbo/service-consumer/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domo-dubbo/service-consumer/service-consumer-api/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domo-dubbo/service-consumer/service-consumer-api/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domo-dubbo/service-consumer/service-consumer-core/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domo-dubbo/service-consumer/service-consumer-core/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domo-dubbo/service-consumer/service-consumer-core/src/main/java/com/liangquan/ConsumerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domo-dubbo/service-consumer/service-consumer-core/src/main/java/com/liangquan/controller/TestDubboController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domo-dubbo/service-consumer/service-consumer-core/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domo-dubbo/service-consumer/service-consumer-entity/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domo-dubbo/service-consumer/service-consumer-entity/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domo-dubbo/service-provider/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domo-dubbo/service-provider/service-provider-api/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domo-dubbo/service-provider/service-provider-api/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domo-dubbo/service-provider/service-provider-api/src/main/java/com/liangquan/dubbo/service/TestDubboService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domo-dubbo/service-provider/service-provider-core/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domo-dubbo/service-provider/service-provider-core/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domo-dubbo/service-provider/service-provider-core/src/main/java/com/liangquan/ProviderApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domo-dubbo/service-provider/service-provider-core/src/main/java/com/liangquan/service/dubbo/TestDubboServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domo-dubbo/service-provider/service-provider-core/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domo-dubbo/service-provider/service-provider-entity/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domo-dubbo/service-provider/service-provider-entity/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domo-dubbo/service-provider/service-provider-entity/src/main/java/com/liangquan/entity/Users.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudySpringRocketMQ/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/StudySpringRocketMQ/Readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/test/java/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -221,7 +188,7 @@
       <workItem from="1730342075162" duration="22000" />
       <workItem from="1730342142061" duration="1698000" />
       <workItem from="1730345378508" duration="3556000" />
-      <workItem from="1730948106027" duration="4700000" />
+      <workItem from="1730948106027" duration="4854000" />
     </task>
     <servers />
   </component>
