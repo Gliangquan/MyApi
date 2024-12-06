@@ -16,5 +16,6 @@ public class RocketMQApplication {
     private static void main(String[] args) {
         SpringApplication.run(RocketMQApplication.class, args);
         log.info("--------RocketMQApplication----------");
+
     }
 }

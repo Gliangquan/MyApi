@@ -11,18 +11,22 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="StudySpringRocketMQ" />
+        <module name="rpc-zeasy" />
+        <module name="rpc-common" />
         <module name="StudySpringSecurity" />
         <module name="service-provider-entity" />
-        <module name="service-consumer" />
-        <module name="service-consumer-entity" />
-        <module name="service-provider" />
+        <module name="rpc-provider" />
         <module name="StudySpring" />
-        <module name="StudySpringRedis" />
         <module name="service-provider-core" />
         <module name="service-consumer-core" />
         <module name="service-consumer-api" />
         <module name="service-provider-api" />
+        <module name="StudySpringRocketMQ" />
+        <module name="service-consumer" />
+        <module name="service-consumer-entity" />
+        <module name="service-provider" />
+        <module name="StudySpringRedis" />
+        <module name="rpc-consumer" />
       </profile>
     </annotationProcessing>
   </component>
@@ -31,6 +35,8 @@
       <module name="StudySpringRedis" options="-parameters" />
       <module name="StudySpringRocketMQ" options="-parameters" />
       <module name="StudySpringSecurity" options="-parameters" />
+      <module name="rpc-common" options="" />
+      <module name="rpc-consumer" options="" />
       <module name="service-consumer" options="-parameters" />
       <module name="service-consumer-api" options="-parameters" />
       <module name="service-consumer-core" options="-parameters" />

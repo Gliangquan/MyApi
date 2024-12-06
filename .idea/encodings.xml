@@ -6,6 +6,16 @@
     <file url="file://$PROJECT_DIR$/StudySpringRedis/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/StudySpringRocketMQ/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/StudySpringSecurity/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-rpc/rpc-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-rpc/rpc-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-rpc/rpc-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-rpc/rpc-consumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-rpc/rpc-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-rpc/rpc-provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-rpc/rpc-zeasy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-rpc/rpc-zeasy/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-rpc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-rpc/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/domo-dubbo/service-consumer/service-consumer-api/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/domo-dubbo/service-consumer/service-consumer-api/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/domo-dubbo/service-consumer/service-consumer-core/src/main/java" charset="UTF-8" />

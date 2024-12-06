@@ -5,10 +5,52 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7b943f27-d059-4b34-a619-265fad66df5b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/domo-dubbo/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudySpring/src/main/java/com/liangquan/handw_spring/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudySpring/src/main/java/com/liangquan/handw_spring/service/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudySpring/src/main/java/com/liangquan/handw_spring/service/JcenBeanPostProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudySpring/src/main/java/com/liangquan/handw_spring/service/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudySpring/src/main/java/com/liangquan/handw_spring/service/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudySpring/src/main/java/com/liangquan/handw_spring/service/UserInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudySpring/src/main/java/com/liangquan/handw_spring/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudySpring/src/main/java/com/liangquan/handw_spring/spring/Autowired.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudySpring/src/main/java/com/liangquan/handw_spring/spring/BeanDefinition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudySpring/src/main/java/com/liangquan/handw_spring/spring/BeanNameAware.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudySpring/src/main/java/com/liangquan/handw_spring/spring/BeanPostProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudySpring/src/main/java/com/liangquan/handw_spring/spring/Component.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudySpring/src/main/java/com/liangquan/handw_spring/spring/ComponentScan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudySpring/src/main/java/com/liangquan/handw_spring/spring/InitializingBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudySpring/src/main/java/com/liangquan/handw_spring/spring/JcenApplicationContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-rpc/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-rpc/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-rpc/rpc-common/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-rpc/rpc-common/src/main/java/com/liangquan/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-rpc/rpc-common/src/main/java/com/liangquan/model/Users.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-rpc/rpc-common/src/main/java/com/liangquan/service/UsersService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-rpc/rpc-consumer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-rpc/rpc-consumer/src/main/java/com/liangquan/RpcConsumerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-rpc/rpc-consumer/src/main/java/com/liangquan/consumer/UserServiceProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-rpc/rpc-provider/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-rpc/rpc-provider/src/main/java/com/liangquan/RpcProviderApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-rpc/rpc-provider/src/main/java/com/liangquan/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-rpc/rpc-zeasy/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-rpc/rpc-zeasy/src/main/java/com/liangquan/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-rpc/rpc-zeasy/src/main/java/com/liangquan/model/RpcRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-rpc/rpc-zeasy/src/main/java/com/liangquan/model/RpcResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-rpc/rpc-zeasy/src/main/java/com/liangquan/proxy/ServiceProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-rpc/rpc-zeasy/src/main/java/com/liangquan/proxy/ServiceProxyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-rpc/rpc-zeasy/src/main/java/com/liangquan/registry/LocalRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-rpc/rpc-zeasy/src/main/java/com/liangquan/serializer/JdkSerializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-rpc/rpc-zeasy/src/main/java/com/liangquan/serializer/Serializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-rpc/rpc-zeasy/src/main/java/com/liangquan/server/HttpServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-rpc/rpc-zeasy/src/main/java/com/liangquan/server/HttpServerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-rpc/rpc-zeasy/src/main/java/com/liangquan/server/VertxHttpServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/domo-dubbo/service-consumer/service-consumer-core/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/domo-dubbo/service-consumer/service-consumer-core/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/domo-dubbo/service-provider/service-provider-core/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/domo-dubbo/service-provider/service-provider-core/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudySpring/src/main/java/com/liangquan/studyspring/StudySpringApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudySpring/src/main/java/com/liangquan/studyspring/StudySpringApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudySpringRocketMQ/src/main/java/con/liang/rocketmq/RocketMQApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudySpringRocketMQ/src/main/java/con/liang/rocketmq/RocketMQApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,17 +60,20 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
+        <option value="AnnotationType" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
-  <component name="KubernetesApiProvider"><![CDATA[{
-  "isMigrated": true
-}]]></component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -54,9 +99,16 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Base64ToImage.executor": "Run",
     "Application.ProducerExample.executor": "Run",
     "Application.PushConsumerExample.executor": "Run",
+    "Application.RpcConsumerApplication.executor": "Debug",
+    "Application.RpcProviderApplication.executor": "Debug",
+    "Application.Test (1).executor": "Debug",
+    "Application.Test.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "Maven.domo-dubbo [clean].executor": "Run",
+    "Maven.rpc-easy [clean].executor": "Run",
     "Maven.service-provider-core [clean].executor": "Run",
     "Maven.service-provider-entity [clean].executor": "Run",
     "RequestMappingsPanelOrder0": "0",
@@ -69,9 +121,9 @@
     "Spring Boot.ProviderApplication.executor": "Debug",
     "Spring Boot.StudySpringApplication.executor": "Run",
     "git-widget-placeholder": "main",
-    "jdk.selected.JAVA_MODULE": "Tencen-kona-1.8",
+    "jdk.selected.JAVA_MODULE": "Tencen-kona-17",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/liangquan/Library/Mobile Documents/com~apple~CloudDocs/code/StudySpringBoot/domo-dubbo/service-consumer/service-consumer-core/src/main/java/com/liangquan",
+    "last_opened_file_path": "/Users/liangquan/Library/Mobile Documents/com~apple~CloudDocs/code/StudySpringBoot/handw_spring/src",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -87,19 +139,22 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/handw_spring/src" />
       <recent name="$PROJECT_DIR$/domo-dubbo/service-consumer/service-consumer-core/src/main/java/com/liangquan" />
       <recent name="$PROJECT_DIR$/domo-dubbo/service-consumer/service-consumer-core/src/main" />
       <recent name="$PROJECT_DIR$/domo-dubbo/service-provider/service-provider-core/src/main/java" />
       <recent name="$PROJECT_DIR$/domo-dubbo/service-provider" />
-      <recent name="$PROJECT_DIR$/domo-dubbo/service-provider/service-provider-core/src/main/java/com/liangquan/serviceprovidercore" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/handw_spring/src/com" />
+      <recent name="$PROJECT_DIR$/demo-rpc" />
       <recent name="$PROJECT_DIR$/domo-dubbo/service-provider" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.liangquan" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.liangquan.handw_spring.spring" />
       <recent name="com.liangquan.service.dubbo" />
       <recent name="com.liangquan.entity" />
       <recent name="com.liangquan.dubbo.service" />
@@ -114,13 +169,13 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.ConsumerApplication">
-    <configuration name="ProducerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="con.liang.rocketmq.Producer.ProducerExample" />
-      <module name="StudySpringRocketMQ" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="RpcConsumerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liangquan.RpcConsumerApplication" />
+      <module name="rpc-consumer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="con.liang.rocketmq.Producer.*" />
+          <option name="PATTERN" value="com.liangquan.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +183,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PushConsumerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="con.liang.rocketmq.Consumer.PushConsumerExample" />
-      <module name="StudySpringRocketMQ" />
+    <configuration name="RpcProviderApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liangquan.RpcProviderApplication" />
+      <module name="rpc-provider" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="con.liang.rocketmq.Consumer.*" />
+          <option name="PATTERN" value="com.liangquan.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liangquan.handw_spring.service.Test" />
+      <module name="handw_spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liangquan.handw_spring.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liangquan.handw_spring.service.Test" />
+      <module name="StudySpring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liangquan.handw_spring.service.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,9 +246,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.RpcConsumerApplication" />
+        <item itemvalue="Application.RpcProviderApplication" />
         <item itemvalue="Spring Boot.ConsumerApplication" />
-        <item itemvalue="Application.ProducerExample" />
-        <item itemvalue="Application.PushConsumerExample" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +274,12 @@
       <workItem from="1730342075162" duration="22000" />
       <workItem from="1730342142061" duration="1698000" />
       <workItem from="1730345378508" duration="3556000" />
-      <workItem from="1730948106027" duration="5177000" />
+      <workItem from="1730948106027" duration="5219000" />
+      <workItem from="1731129972787" duration="6778000" />
+      <workItem from="1731218000737" duration="1553000" />
+      <workItem from="1731297045605" duration="1777000" />
+      <workItem from="1733465851689" duration="3396000" />
+      <workItem from="1733469623837" duration="11136000" />
     </task>
     <servers />
   </component>
@@ -213,6 +301,16 @@
           <url>file://$PROJECT_DIR$/domo-dubbo/service-consumer/service-consumer-core/src/main/java/com/liangquan/controller/TestDubboController.java</url>
           <line>25</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demo-rpc/rpc-zeasy/src/main/java/com/liangquan/server/HttpServerHandler.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/handw_spring/src/com/liangquan/handw_spring/spring/JcenApplicationContext.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -15,8 +15,10 @@
         <option value="$PROJECT_DIR$/domo-dubbo/service-consumer/service-consumer-api/pom.xml" />
         <option value="$PROJECT_DIR$/domo-dubbo/service-consumer/service-consumer-core/pom.xml" />
         <option value="$PROJECT_DIR$/domo-dubbo/service-consumer/service-consumer-entity/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-rpc/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-rpc/rpc-easy/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="Tencen-kona-17" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
 </project>
