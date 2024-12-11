@@ -10,6 +10,7 @@ public class BeanDefinition {
 
     private Class Type;
 
+//    单例还是多例
     private String scope;
 
 

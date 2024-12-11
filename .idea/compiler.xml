@@ -22,6 +22,8 @@
         <module name="service-consumer-api" />
         <module name="service-provider-api" />
         <module name="StudySpringRocketMQ" />
+        <module name="demo-utils" />
+        <module name="demo-spring5" />
         <module name="service-consumer" />
         <module name="service-consumer-entity" />
         <module name="service-provider" />
@@ -35,6 +37,7 @@
       <module name="StudySpringRedis" options="-parameters" />
       <module name="StudySpringRocketMQ" options="-parameters" />
       <module name="StudySpringSecurity" options="-parameters" />
+      <module name="demo-spring5" options="-parameters" />
       <module name="rpc-common" options="" />
       <module name="rpc-consumer" options="" />
       <module name="service-consumer" options="-parameters" />

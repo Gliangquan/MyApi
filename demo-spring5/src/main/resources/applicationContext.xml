@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="component1" class="org.quan.spring5.Component1" />
+
+    <bean id="component2" class="org.quan.spring5.Component2">
+        <!-- set注入 -->
+        <property name="component1" ref="component1" />
+    </bean>
+
+</beans>

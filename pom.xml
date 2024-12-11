@@ -20,6 +20,7 @@
         <module>StudySpringRedis</module>
         <module>StudySpring</module>
         <module>StudySpringRocketMQ</module>
+        <module>demo-spring5</module>
     </modules>
 
     <properties>

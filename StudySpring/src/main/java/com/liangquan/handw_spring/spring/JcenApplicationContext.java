@@ -1,6 +1,5 @@
 package com.liangquan.handw_spring.spring;
 
-import org.springframework.beans.factory.BeanFactoryAware;
 import org.springframework.context.annotation.Scope;
 
 import java.beans.Introspector;
@@ -26,12 +25,13 @@ public class JcenApplicationContext {
     // 配置文件类
     private Class configClass;
 
+    // Map<beanName, beanDefinition>
     private ConcurrentHashMap<String, BeanDefinition> beanDefinitionMap = new ConcurrentHashMap<>();
 
     // 单例池
     private ConcurrentHashMap<String, Object> singletonObjects = new ConcurrentHashMap<>();
 
-    //
+    // 需要再bean创建前后做操作的
     private ArrayList<BeanPostProcessor> beanPostProcessorsList = new ArrayList<>();
 
     public Class getConfigClass() {
@@ -85,7 +85,7 @@ public class JcenApplicationContext {
                                 }
 
                                 // Component（）写的名字
-                                Component component = clazz.getAnnotation(Component.class);
+                                    Component component = clazz.getAnnotation(Component.class);
                                 String beanName = component.value();
 
                                 if (beanName.equals("")) {

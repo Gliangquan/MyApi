@@ -1,6 +1,7 @@
 package com.liangquan.handw_spring.service;
 
 import com.liangquan.handw_spring.spring.JcenApplicationContext;
+import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 /**
@@ -18,6 +19,8 @@ public class Test {
 
 //        使用spring容器的时候，传入 配置文件 或者 配置类（AppConfig）
         JcenApplicationContext jcenApplicationContext = new JcenApplicationContext(AppConfig.class);
+//        ConfigurableApplicationContext context = new ClassPathXmlApplicationContext("applicationContext.xml");
+//        context.getBean("111");
 
         System.out.println(jcenApplicationContext.getBean("userService"));
 //        System.out.println(jcenApplicationContext.getBean("userService"));

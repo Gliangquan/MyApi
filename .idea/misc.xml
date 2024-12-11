@@ -17,6 +17,7 @@
         <option value="$PROJECT_DIR$/domo-dubbo/service-consumer/service-consumer-entity/pom.xml" />
         <option value="$PROJECT_DIR$/demo-rpc/pom.xml" />
         <option value="$PROJECT_DIR$/demo-rpc/rpc-easy/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-utils/pom.xml" />
       </list>
     </option>
   </component>
